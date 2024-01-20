@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "google-libphonenumber": "^3.2.34",
+    "lodash-es": "^4.17.21",
+    "quoted-printable": "^1.0.1",
+    "utf8": "^3.0.0"
+  }
+}
